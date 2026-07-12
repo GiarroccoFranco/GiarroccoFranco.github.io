@@ -23,12 +23,12 @@ latest_posts:
   max-width: 150px;
 }
 .bibliography li {
-  padding-left: 0;
-  margin-left: 0;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 .bibliography ol, .bibliography ul {
-  padding-left: 0;
-  margin-left: 0;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 .brain-bio {
   display: flex;
@@ -44,11 +44,20 @@ latest_posts:
   flex: 1;
   min-width: 0;
 }
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .brain-bio {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    width: 100%;
+  }
+  .brain-bio img {
+    height: 120px;
+    margin-bottom: 10px;
+  }
+  .brain-bio .bio-text {
+    width: 100%;
+    padding: 0 10px;
   }
 }
 </style>
