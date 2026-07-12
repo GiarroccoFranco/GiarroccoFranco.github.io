@@ -12,7 +12,7 @@ profile:
     <p></p>
     <p></p>
 selected_papers: true
-social: true
+social: false
 announcements:
   enabled: false
 latest_posts:
