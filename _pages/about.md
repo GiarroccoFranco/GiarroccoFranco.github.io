@@ -31,4 +31,3 @@ For a complete list of my publications, please visit my [Google Scholar](https:/
 ## Awards & Honors
 - Award 1, Year
 - Award 2, Year
-
