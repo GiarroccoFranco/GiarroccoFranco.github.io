@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
 subtitle: Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
 profile:
