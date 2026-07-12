@@ -28,6 +28,6 @@ I am a postdoctoral research fellow in the Section on Learning and Decision Maki
 
 For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=GsupyagAAAAJ) profile.
 
-## Awards & Honors
+## Awards
 - Award 1, Year
 - Award 2, Year
