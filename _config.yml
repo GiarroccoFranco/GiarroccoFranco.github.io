@@ -4,9 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 #title: '<img src="/assets/img/brain_logo.png" style="height:100px; vertical-align:middle; margin-right:8px;">Franco Giarrocco, PhD'
-first_name: Franco
+first_name: Franco Giarrocco
 middle_name:
-last_name: Giarrocco, PhD
+last_name: ,PhD
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
