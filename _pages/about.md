@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. National Institute of Mental Health - NIH
+subtitle: Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
 profile:
   align: right
   image: prof_pic.jpg
