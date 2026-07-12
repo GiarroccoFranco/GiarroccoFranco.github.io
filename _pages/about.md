@@ -22,8 +22,13 @@ latest_posts:
 .profile img {
   max-width: 150px;
 }
-.bibliography {
+.bibliography li {
   padding-left: 0;
+  margin-left: 0;
+}
+.bibliography ol, .bibliography ul {
+  padding-left: 0;
+  margin-left: 0;
 }
 </style>
 
