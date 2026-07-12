@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
-# subtitle: <img src="/assets/img/brain_logo.png" style="height:60px; display:block; margin-bottom:8px;"> Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
 profile:
   align: right
   image: prof_pic.jpg
@@ -19,26 +18,17 @@ announcements:
 latest_posts:
   enabled: false
 ---
-<div style="text-align: left; margin-bottom: 10px;">
-  <img src="/assets/img/brain_logo.png" style="height:80px;">
-</div>
 <style>
 .profile img {
   max-width: 150px;
 }
-.navbar-brand::before {
-  content: '';
-  display: inline-block;
-  width: 40px;
-  height: 40px;
-  background-image: url('/assets/img/brain_logo.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  vertical-align: middle;
-  margin-right: 8px;
-}
 </style>
 
-My research aims to understand the organization and function of forebrain circuits in primates. I investigate the principles underlying the anatomical organization of cortico-basal ganglia circuits and their evolutionary antecedents, and use multi-area electrophysiological recordings in nonhuman primates to study interareal interactions and the large-scale functional organization of these circuits during reinforcement learning, decision-making, and motor control.
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="/assets/img/brain_logo.png" style="height:120px; flex-shrink:0;">
+  <div>
+  My research aims to understand the organization and function of forebrain circuits in primates. I investigate the principles underlying the anatomical organization of cortico-basal ganglia circuits and their evolutionary antecedents, and use multi-area electrophysiological recordings in nonhuman primates to study interareal interactions and the large-scale functional organization of these circuits during reinforcement learning, decision-making, and motor control.
 
-For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=GsupyagAAAAJ) profile.
+  For a complete list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&pli=1&user=GsupyagAAAAJ) profile.
+  </div>
+</div>
