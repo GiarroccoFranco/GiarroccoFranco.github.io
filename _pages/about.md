@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
-subtitle: <img src="/assets/img/brain_logo.png" style="height:60px; display:block; margin-bottom:8px;"> Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
+subtitle: Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
+# subtitle: <img src="/assets/img/brain_logo.png" style="height:60px; display:block; margin-bottom:8px;"> Postdoctoral Research Fellow, Section on Learning and Decision Making, National Institute of Mental Health, NIH
 profile:
   align: right
   image: prof_pic.jpg
@@ -19,6 +19,9 @@ announcements:
 latest_posts:
   enabled: false
 ---
+<div style="text-align: left; margin-bottom: 10px;">
+  <img src="/assets/img/brain_logo.png" style="height:80px;">
+</div>
 <style>
 .profile img {
   max-width: 150px;
