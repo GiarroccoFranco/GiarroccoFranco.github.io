@@ -48,6 +48,7 @@ latest_posts:
 .brain-bio .bio-text {
   flex: 1;
   min-width: 0;
+  font-size: 1.1rem;
 }
 @media (max-width: 768px) {
   .brain-bio {
