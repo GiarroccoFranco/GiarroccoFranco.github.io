@@ -22,6 +22,9 @@ latest_posts:
 .profile img {
   max-width: 150px;
 }
+.bibliography {
+  padding-left: 0;
+}
 </style>
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
