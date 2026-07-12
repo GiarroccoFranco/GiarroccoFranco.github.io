@@ -22,6 +22,17 @@ latest_posts:
 .profile img {
   max-width: 150px;
 }
+.navbar-brand::before {
+  content: '';
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-image: url('/assets/img/brain_logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-right: 8px;
+}
 </style>
 
 My research aims to understand the organization and function of forebrain circuits in primates. I investigate the principles underlying the anatomical organization of cortico-basal ganglia circuits and their evolutionary antecedents, and use multi-area electrophysiological recordings in nonhuman primates to study interareal interactions and the large-scale functional organization of these circuits during reinforcement learning, decision-making, and motor control.
