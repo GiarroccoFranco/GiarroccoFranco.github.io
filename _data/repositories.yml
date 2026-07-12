@@ -1,5 +1,7 @@
 repo_description_lines_max: 2
-You can find code and data from my research in my repositories. Feel free to reach out with any questions.
-github and figshare repos:
- https://github.com/GiarroccoFranco?tab=repositories
- https://figshare.com/authors/Franco_Giarrocco/21176114
+
+github_users:
+  - GiarroccoFranco
+
+github_repos:
+  - GiarroccoFranco/your-repo-name
