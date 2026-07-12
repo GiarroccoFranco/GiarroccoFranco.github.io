@@ -39,7 +39,7 @@ latest_posts:
   align-items: center;
   gap: 20px;
   margin-bottom: 20px;
-  margin-top: -10px;
+  margin-top: -5px;
 }
 .brain-bio img {
   height: 150px;
